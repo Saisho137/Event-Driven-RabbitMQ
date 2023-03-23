@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "70f7F+e7UyFTp5TkSDld5Ag4hXwh41S80TFqPVJZir2StGFS54Zf77YaSaW7jiYc7U/snNx42yija+Hywm4vlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SantiagoPC\\source\\repos\\PublicadorSistemaTransaccional\\PublicadorSistemaTransaccional\\PublicadorSistemaTransaccional.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SantiagoPC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\SantiagoPC\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\SantiagoPC\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\SantiagoPC\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
