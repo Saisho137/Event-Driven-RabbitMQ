@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BakcupProjects\\RabbitMQ Event Driven\\Sistema Transaccional RabbitMQ\\Publicador Sistema Transaccional\\PublicadorSistemaTransaccional\\PublicadorSistemaTransaccional.csproj": {}
+  },
+  "projects": {
+    "D:\\BakcupProjects\\RabbitMQ Event Driven\\Sistema Transaccional RabbitMQ\\Publicador Sistema Transaccional\\PublicadorSistemaTransaccional\\PublicadorSistemaTransaccional.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BakcupProjects\\RabbitMQ Event Driven\\Sistema Transaccional RabbitMQ\\Publicador Sistema Transaccional\\PublicadorSistemaTransaccional\\PublicadorSistemaTransaccional.csproj",
+        "projectName": "PublicadorSistemaTransaccional",
+        "projectPath": "D:\\BakcupProjects\\RabbitMQ Event Driven\\Sistema Transaccional RabbitMQ\\Publicador Sistema Transaccional\\PublicadorSistemaTransaccional\\PublicadorSistemaTransaccional.csproj",
+        "packagesPath": "C:\\Users\\SantiagoPC\\.nuget\\packages\\",
+        "outputPath": "D:\\BakcupProjects\\RabbitMQ Event Driven\\Sistema Transaccional RabbitMQ\\Publicador Sistema Transaccional\\PublicadorSistemaTransaccional\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SantiagoPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SuLuNw5yR0tDTrnbVGKsfoHVij3wuiLs1ow+6KCK03zhQsKrGzUiBGHEnr9+rJks3i86ejlNHTpPPgJxwahSZQ==",
+  "success": true,
+  "projectFilePath": "D:\\BakcupProjects\\RabbitMQ Event Driven\\Spotify Discovery Simulation Rabbit MQ\\Publisher Spotify\\SpotifyPublisher\\SpotifyPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SantiagoPC\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\SantiagoPC\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\SantiagoPC\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
